@@ -1,17 +1,17 @@
 # DesignMode
 常用的设计模式：创建型、结构型、行为型
 
-创建型：
+ 创建型：
 
-   单例模式（Singleton Pattern）
+    单例模式（Singleton Pattern）
 
-   工厂方法模式（Factory Pattern）
+    工厂方法模式（Factory Pattern）
 
-   抽象工厂模式（Abstract Pattern）
+    抽象工厂模式（Abstract Pattern）
 
-   建造者模式（Builder Pattern）
+    建造者模式（Builder Pattern）
 
-   原型模式（Prototype Pattern）
+    原型模式（Prototype Pattern）
 
 结构型：
 
